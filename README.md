@@ -4,7 +4,7 @@
 _Examples rendered with HST resolution, PSF, and noise. Ticks are 2 arcsec_
 
 * 10 systems with substructure drawn from different mass functions.
-* Files contain the lensed source emission only, no PSF and no noise, units are W m^-2 arcsec^-2
+* Files contain the lensed source emission only, no PSF and no noise, units are Wm<sup>-2</sup>arcsec<sup>-2</sup>
 * Pixel scale is 0.01 arcsec
 
 Lens and source redshifts below
