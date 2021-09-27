@@ -5,7 +5,7 @@ _Examples rendered with HST resolution, PSF, and noise. Ticks are 2 arcsec_
 
 * Two mass functions, A and B (one cold one warm), with the same 10 systems for both.
 * Files contain the lensed source emission only, no PSF and no noise, units are Wm<sup>-2</sup>arcsec<sup>-2</sup>
-* Pixel scale is 0.01 arcsec
+* Pixel scale is 0.01 arcsec, field of view is 10 arcsec
 
 Lens and source redshifts below
 
