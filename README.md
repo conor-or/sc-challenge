@@ -4,8 +4,12 @@
 _Examples rendered with HST resolution, PSF, and noise. Ticks are 2 arcsec_
 
 * Two mass functions, A and B (one cold one warm), with the same 10 systems for both.
-* Files contain the lensed source emission only, no PSF and no noise, units are Wm<sup>-2</sup>arcsec<sup>-2</sup>
-* Pixel scale is 0.01 arcsec, field of view is 10 arcsec
+* `/mass_function_*/*_image.fits` Files contain the lensed source emission only, no PSF and no noise, units are Wm<sup>-2</sup>arcsec<sup>-2</sup>#
+* `/mass_function_*/*_mock.fits` files contain the HST mock
+* HST PSF is in `/psf.fits`
+* Noise realisations are the same for each system across mass functions
+* Z_lens, Z_source and the RMS of the noise are in `/lens_data.txt`
+* Pixel scale is 0.01 arcsec in unobserved emission, 0.04 arcsec in HST mocks, field of view is 10 arcsec
 
 Lens and source redshifts below
 
